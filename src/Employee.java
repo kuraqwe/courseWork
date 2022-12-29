@@ -1,6 +1,6 @@
 public class Employee {
 
-    static int count = 0;
+     private static int count = 0;
     private String fullName;
     private int salary, department, id;
 
